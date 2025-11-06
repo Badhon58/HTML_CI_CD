@@ -27,9 +27,12 @@ pipeline{
 
 
 //  manage plugins
+
 // generacik webhook trigger
 // github integration
 // On thr github 
 // payload URL
 // ip/github-webhook 
 // content application json ''
+// sudo visudo
+// jenkins ALL=(ALL) NOPASSWD: ALL
